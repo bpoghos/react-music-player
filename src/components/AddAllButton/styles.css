@@ -1,0 +1,10 @@
+.add-all-button {
+    padding: 8px 16px;
+    border: 1px solid #696969;
+    border-radius: 5px;
+}
+
+.add-all-button:hover {
+    background-color: #fff;
+    cursor: pointer;
+}

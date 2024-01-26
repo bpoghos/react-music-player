@@ -1,10 +1,13 @@
-import './App.css';
+import SongList from './components/SongList/SongList';
+import Header from './components/Header/Header';
 
 function App() {
+
   return (
-    <div className="App">
-      MUSIC PLAYER
-    </div>
+    <>
+      <Header />
+      <SongList />
+    </>
   );
 }
 
